@@ -1,2 +1,2 @@
 # employee_exit_surveys
-Analyze employee exit surveys and reasons for leaving
+Analyze employee exit surveys and reasons for leaving from exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.  This first part of this is a guided project with a set of questions to answer.  The last part is exploring the data further.  The goal of this project was to work on data cleaning.
